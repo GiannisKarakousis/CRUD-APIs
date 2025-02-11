@@ -53,5 +53,4 @@ Retrieves a list of all users.
 
 • Add authentication and authorization.  
 • Implement pagination for large datasets.  
-• Add validation error handling.  
-• Integrate Swagger for API documentation.  
+• Add validation error handling.
